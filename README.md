@@ -5,6 +5,6 @@ Las cuales al ser proyectadas y mostradas en la pantalla, se puede reconocer los
 y la longitud del dedo, además del angulo el cual diferencia de un dedo en especifico, se compara con lo demas para si mostrar en pantalla el dedo que es.
  Y al identificar algunos dedos, se puede identificar con un numero el dedo, pára que reconozca lo que es algun gesto para mostrarlo en pantalla.
 
- <div>
-   <src ></src>
- </div>
+ <div align="center">
+<img  width="600" height="500" src="https://github.com/Marianito5382/Reconocimiento_dedosygestos/blob/main/WhatsApp%20Image%202024-05-27%20at%208.58.12%20AM%20(1).jpeg">
+</div>
